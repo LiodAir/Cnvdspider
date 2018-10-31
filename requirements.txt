@@ -1,4 +1,4 @@
 APScheduler==3.5.1
 selenium==3.9.0
-requests==2.2.0.0
+requests==2.20.0
 lxml==3.6.0
